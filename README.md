@@ -16,7 +16,7 @@ This is a simple Python script that measures your internet connection's download
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Alirezaseyed/internet-speed-test.git
+    git clone https://github.com/Alirezaseyed/speedtest_py.git
     cd internet-speed-test
     ```
 
@@ -31,4 +31,4 @@ This is a simple Python script that measures your internet connection's download
 After installing the required package, you can run the script directly:
 
 ```bash
-python speed_test.py
+python main.py
